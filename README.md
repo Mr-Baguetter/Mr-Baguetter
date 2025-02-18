@@ -6,7 +6,8 @@ I'm a **C#**, **Python**, **HTML** and **CSS** developer specialized in the deve
 [![UncomplicatedCustomItems](https://raw.githubusercontent.com/UncomplicatedCustomServer/UncomplicatedCustomltems/resources/plugin-banner.png)](https://github.com/UncomplicatedCustomServer/UncomplicatedCustomItems)
 
 ## Skills
-<img src='https://raw.githubusercontent.com/Mr-Baguetter/Mr-Baguetter/main/C#.png' style='height: 50px'><img src='https://raw.githubusercontent.com/Mr-Baguetter/Mr-Baguetter/main/Python.png' style='height: 50px'><img src='https://raw.githubusercontent.com/Mr-Baguetter/Mr-Baguetter/main/HTML5.png' style='height: 50px'>
+<img src='https://raw.githubusercontent.com/Mr-Baguetter/Mr-Baguetter/main/c-sharp.png' style='height: 50px'><img src='https://raw.githubusercontent.com/Mr-Baguetter/Mr-Baguetter/main/python.png' style='height: 50px'><img src='https://raw.githubusercontent.com/Mr-Baguetter/Mr-Baguetter/main/html-5.png' style='height: 50px'>
+<img src='https://raw.githubusercontent.com/Mr-Baguetter/Mr-Baguetter/main/css-3.png' style='height: 50px'>
 
 ## Currently working on
 [![UncomplicatedCustomItems](https://raw.githubusercontent.com/UncomplicatedCustomServer/UncomplicatedCustomltems/resources/plugin-banner.png)](https://github.com/UncomplicatedCustomServer/UncomplicatedCustomItems)
