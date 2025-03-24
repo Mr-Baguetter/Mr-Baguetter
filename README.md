@@ -14,5 +14,5 @@ I'm a **C#**, **Python**, **HTML** and **CSS** developer specialized in the deve
 [![UncomplicatedCustomItems](https://github-readme-stats.vercel.app/api/pin/?username=UncomplicatedCustomServer&repo=UncomplicatedCustomItems&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_owner=true)](https://github.com/UncomplicatedCustomServer/UncomplicatedCustomItems)
 
 ### GitHub stats
-![Mr. Baguetter's github stats](https://github-readme-stats.vercel.app/api/?username=Mr-Baguetter&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&theme=merko)<br>
+![Mr. Baguetter's github stats](https://github-readme-stats.vercel.app/api/?username=Mr-Baguetter&show_icons=true&theme=merko)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Baguetter&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)<br>
