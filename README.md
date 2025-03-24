@@ -3,7 +3,7 @@ I'm a **C#**, **Python**, **HTML** and **CSS** developer specialized in the deve
 <br>
 
 ## Important project(s)
-![UncomplicatedCustomItems](https://github.com/UncomplicatedCustomServer/UncomplicatedCustomItems/blob/fd51f13b6a312c09ae81c975a0575f6a93a74273/uci_promo_banner.png)
+<img src="https://github.com/UncomplicatedCustomServer/UncomplicatedCustomItems/blob/fd51f13b6a312c09ae81c975a0575f6a93a74273/uci_promo_banner.png" alt="UncomplicatedCustomItems" width="400"/>
 
 ## Skills
 <img src='https://raw.githubusercontent.com/Mr-Baguetter/Mr-Baguetter/main/c-sharp.png' style='height: 50px'><img src='https://raw.githubusercontent.com/Mr-Baguetter/Mr-Baguetter/main/python.png' style='height: 50px'><img src='https://raw.githubusercontent.com/Mr-Baguetter/Mr-Baguetter/main/html-5.png' style='height: 50px'>
