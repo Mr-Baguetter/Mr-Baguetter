@@ -2,7 +2,7 @@
 I'm a **C#**, **Python**, **HTML** and **CSS** developer specialized in the development of plugins for SCP: SL using the EXILED framework.<br>
 <br>
 
-## Most important project
+##Important project(s)
 [![UncomplicatedCustomItems](https://raw.githubusercontent.com/UncomplicatedCustomServer/UncomplicatedCustomltems/resources/plugin-banner.png)](https://github.com/UncomplicatedCustomServer/UncomplicatedCustomItems)
 
 ## Skills
