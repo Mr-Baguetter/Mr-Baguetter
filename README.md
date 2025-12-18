@@ -1,5 +1,5 @@
 # Mr. Baguetter
-I'm a **C#**, **Python**, **HTML** and **CSS** developer specialized in the development of plugins for SCP: SL using the EXILED framework.<br>
+I'm a **C#**, **Python**, **HTML** and **CSS** developer specialized in the development of plugins for SCP: SL using the EXILED and LabApi frameworks.<br>
 <br>
 
 ## Important project(s)
